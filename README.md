@@ -1,4 +1,4 @@
-https://www.udemy.com/course/curso-desenvolvimento-ios/learn/lecture/7565890#questions/8998220
+
 
 ### Hello People! My name is Edilson Schwanck, welcome everyone! 👋
 
