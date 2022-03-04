@@ -3,8 +3,8 @@
 ### Hello People! My name is Edilson Schwanck, welcome everyone! 👋
 
 
-- 👨‍🎓 Sou estudante do Curso de Análise e Desenvolvimento de Sistemas.
-- 👨🏿‍💻 Atualemte estudo e desenvolvo na liguagem Swift nativo IOS mobile. 
+- 👨‍🎓 I am a student of the Systems Analysis and Development Course.
+- 👨🏿‍💻 Currently I study and develop in the native Swift language IOS mobile. 
 
 
 
