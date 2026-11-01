@@ -1,137 +1,160 @@
-lá! Eu sou Edilson Schwanck Borges 👋
-
-Desenvolvedor de Software Full Stack | .NET | Vue.js | Flutter | iOS
-
-Sou Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas, com mais de 3 anos de experiência profissional no desenvolvimento de aplicações Web, Mobile e Back-end.
-
-Atuo no desenvolvimento de soluções utilizando C# .NET, Vue.js, TypeScript, Flutter e Swift, participando da criação, manutenção e evolução de sistemas e plataformas SaaS.
-
-Tenho experiência com desenvolvimento de APIs REST, integração entre aplicações, bancos de dados relacionais, arquitetura de software, testes automatizados e desenvolvimento de aplicativos nativos e multiplataforma.
-
-Gosto de desafios técnicos, aprendizado contínuo e de construir soluções escaláveis, eficientes e com boa experiência para o usuário.
-
-🚀 Tecnologias e ferramentas
-
-💻 Front-end
-
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-</div>
-
-⚙️ Back-end
-
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
-</div>
-
-📱 Mobile
-
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
-</div>
-
-🗄️ Banco de dados e infraestrutura
-
-<div>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-</div>
-
-🧠 Conhecimentos técnicos
-
-Desenvolvimento e integração de APIs REST.
-
-Arquitetura de software e Clean Architecture.
-
-Princípios SOLID e padrões de projeto.
-
-MVC e MVVM.
-
-Injeção de dependência (DI).
-
-Testes unitários, TDD e Mocks.
-
-Desenvolvimento de aplicações responsivas.
-
-Internacionalização de aplicações (i18n).
-
-Modelagem e otimização de bancos de dados.
-
-Integração de serviços e Firebase.
-
-Versionamento de código com Git.
-
-Containerização e ambientes com Docker.
-
-💼 Experiência profissional
-
-BJJ Control — Desenvolvedor Full Stack / Mobile
-
-Desenvolvimento e evolução de uma plataforma SaaS reconhecida entre as Top 1000 Startups do Sebrae.
-
-Desenvolvimento de aplicações Web com Vue.js e TypeScript.
-
-Desenvolvimento mobile com Flutter para Android e iOS.
-
-Integração com APIs REST e implementação de internacionalização.
-
-Modernização de interfaces e melhorias de UX/UI.
-
-Sistema Info — Desenvolvedor Mobile iOS
-
-Desenvolvimento de aplicações nativas para iOS utilizando Swift.
-
-Implementação de funcionalidades com UIKit e SwiftUI.
-
-Integração com APIs e serviços externos.
-
-Refatoração, manutenção e otimização de aplicações.
-
-🎓 Formação
-
-Análise e Desenvolvimento de Sistemas
-
-ULBRA — Universidade Luterana do Brasil
-Concluído em 2024.
-
-📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/EdilsonSchwanck">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilsonSchwanck&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonSchwanck&layout=compact&langs_count=8&theme=merko"/>
-  </a>
-</div>
-
-🤝 Vamos nos conectar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/edilson-schwanck-borges-955684208/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:edilsonborges96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+# 👨‍💻 Edilson Schwanck Borges
 
 <div align="center">
 
+### FULL STACK & MOBILE SOFTWARE DEVELOPER
 
+**Building digital experiences through code.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edilson-schwanck-borges-955684208/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/EdilsonSchwanck)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsonborges96@gmail.com)
 
+</div>
+
+---
+
+<img align="right" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+### 🚀 About Me
+
+I'm a Software Developer graduated in **Systems Analysis and Development**, with over **3 years of professional experience** building Web, Mobile and Back-end applications.
+
+I have experience developing scalable applications, REST APIs, SaaS platforms and mobile solutions for Android and iOS.
+
+My main focus is building efficient software using modern technologies, clean architecture and development best practices.
+
+- 💻 Full Stack Development
+- 📱 Mobile Development (Flutter & Native iOS)
+- ⚙️ Back-end Development with C# and .NET
+- 🌐 Front-end Development with Vue.js
+- 🧠 Software Architecture & Clean Code
+- 🌎 Experience with national and international projects
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**FRONT-END**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**BACK-END**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**MOBILE**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DATABASE & DEVOPS**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🧩 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 BJJ Control
+**Full Stack & Mobile Developer**
+
+- SaaS platform development.
+- Vue.js and TypeScript applications.
+- Flutter applications for Android and iOS.
+- REST API integrations.
+- UI/UX modernization and i18n.
+
+</td>
+<td width="50%">
+
+#### 📱 Sistema Info
+**iOS Mobile Developer**
+
+- Native iOS development.
+- Swift, UIKit and SwiftUI.
+- API integrations.
+- Code refactoring and maintenance.
+- Performance and UX improvements.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Architecture & Engineering
+
+<div align="center">
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-333333?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-333333?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-333333?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-333333?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-333333?style=flat-square)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-333333?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-333333?style=flat-square)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EdilsonSchwanck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonSchwanck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdilsonSchwanck&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🎓 Education
+
+**Systems Analysis and Development**  
+ULBRA — Lutheran University of Brazil  
+Graduated in 2024.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Great Together!
+
+**Open to new challenges and opportunities.**
+
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edilson-schwanck-borges-955684208/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=120&section=footer" />
 
 </div>
